@@ -5,7 +5,7 @@ GeeksForGeeks Student Chapter, Bennett University.
 
 ## Live Website
 
-https://marvel-code-of-heroes-copy-6f51e3aa.base44.app/
+https://marvel-code-of-heroes-copy-122d4a77.base44.app/
 
 ## Concept
 
